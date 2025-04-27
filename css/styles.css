@@ -2,14 +2,15 @@
 a:hover,a:focus {color:blueviolet}
 .button:hover,.button:focus {color:blueviolet}
 
-body {font-family: "Roboto"; color: black;
+body {font-family: "Roboto", sans-serif; color: #434455;
+    background-color: #ffffff;
 }
 button {cursor: "pointer"}
-.adreses {font-family: "Roboto" sans-serif; font-weight: 400; line-height: 1.5; color: #434455; } 
-.menu {font-family: "Roboto" sans-serif; font-weight: 500; line-height: 1.5; color:#2e2f42;}
-.logo-link .highlight {font-family: "Raleway" sans-serif; font-weight: 700; font-size: 18px; line-height: 1.3125; color: #4d5ae5;}
-.logo-link {font-family: "Raleway" sans-serif; font-weight: 700; font-size: 18px; line-height: 1.3125; color: #2e2f42;}
-.maintext {font-family: "Roboto" sans-serif; font-weight: 700; font-size: 56px; line-height: 3.75; color: #ffffff; background-color: #2e2f42;}
+.adreses {font-family: "Roboto", sans-serif; font-weight: 400; line-height: 1.5; color: #434455; } 
+.menu {font-family: "Roboto", sans-serif; font-weight: 500; line-height: 1.5; color:#2e2f42;}
+.logo-link .highlight {font-family: "Raleway", sans-serif; font-weight: 700; font-size: 18px; line-height: 1.3125; color: #4d5ae5;}
+.logo-link {font-family: "Raleway", sans-serif; font-weight: 700; font-size: 18px; line-height: 1.3125; color: #2e2f42;}
+.maintext {font-family: "Roboto", sans-serif; font-weight: 700; font-size: 56px; line-height: 3.75; color: #ffffff; background-color: #2e2f42;}
 h3 {font-family: "Roboto" sans-serif;
     font-weight: 500;
     font-size: 20px;
