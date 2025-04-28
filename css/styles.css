@@ -4,24 +4,45 @@ a:hover,a:focus {color:blueviolet; }
 .button:hover {background-color: #404bbf; }
 .button:focus {background-color: #404bbf; }
 
-.button {background-color: #4d5ae5; 
+.button {
+         background-color: #4d5ae5; 
          font-weight: 500; 
          line-height: 1.5; 
          letter-spacing: 0.04em; 
          color: #ffffff;
-         cursor: "pointer";
+         cursor: pointer;
         }
-button {cursor: "pointer" }
 
 body {font-family: "Roboto", sans-serif; 
       color: #434455;
       background-color: #ffffff;
         }
 
-.adreses {font-family: "Roboto", sans-serif; font-weight: 400; line-height: 1.5; color: #434455; } 
-.menu {font-family: "Roboto", sans-serif; font-weight: 500; line-height: 1.5; color:#2e2f42;}
-.logo-link .highlight {font-family: "Raleway", sans-serif; font-weight: 700; font-size: 18px; line-height: 1.3125; color: #4d5ae5;}
-.logo-link {font-family: "Raleway", sans-serif; font-weight: 700; font-size: 18px; line-height: 1.3125; color: #2e2f42;}
+.adreses {font-family: "Roboto", sans-serif; 
+          font-weight: 400; 
+          line-height: 1.5; 
+          color: #434455; 
+          letter-spacing: 0.02em;
+          
+        } 
+.menu {font-family: "Roboto", sans-serif;
+       font-weight: 500; 
+       line-height: 1.5; 
+       color:#2e2f42;
+       letter-spacing: 0.02em; 
+      }
+.logo-link .highlight 
+    {
+    font-family: "Raleway", sans-serif;
+     font-weight: 700; font-size: 18px; 
+     line-height: 1.3125; 
+     color: #4d5ae5;}
+.logo-link {
+    font-family: "Raleway", sans-serif; 
+    font-weight: 700; 
+    font-size: 18px; 
+    line-height: 1.3125; 
+    color: #2e2f42;}
 .sectionone {background-color: #2e2f42 ;}
 .sectionthree {background-color: #f4f4fd;}
 .maintext {font-family: "Roboto", sans-serif; font-weight: 700; font-size: 56px; line-height: 1.07; color: #ffffff; background-color: #2e2f42; text-align: center; letter-spacing: 0.02em;}
