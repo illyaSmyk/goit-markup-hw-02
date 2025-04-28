@@ -98,21 +98,21 @@ body {font-family: "Roboto", sans-serif;
     line-height: 1.5;
     letter-spacing: 0.02em;}
 
-.logo-link2 .bluelight {
+.logo_kinkblue .white {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    color: #F4F4FD;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.logo_linkblue {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     color: #4d5ae5;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-}
-
-.logo-linkblue {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    color: #ffffff;
     letter-spacing: 0.03em; 
     text-transform: uppercase;}
