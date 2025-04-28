@@ -26,8 +26,8 @@ body {font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em}
 .address-link {
     color: #434455;}
-    .address-link:hover { color:#434455; }
-    .address-link:focus { color:#434455; }
+.address-link:hover { color:#404bbf; }
+.address-link:focus { color:#404bbf; }
 
 .menu {font-family: "Roboto", sans-serif;
        font-weight: 500; 
@@ -39,14 +39,18 @@ body {font-family: "Roboto", sans-serif;
     {
     font-family: "Raleway", sans-serif;
      font-weight: 700; font-size: 18px; 
-     line-height: 1.3125; 
-     color: #4d5ae5;}
+     line-height: 1.17;
+     letter-spacing: 0.03em; 
+     text-transform: uppercase;
+     color: #2e2f42;}
 .logo-link {
     font-family: "Raleway", sans-serif; 
     font-weight: 700; 
     font-size: 18px; 
-    line-height: 1.3125; 
-    color: #2e2f42;}
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase; 
+    color: #4d5ae5; }
 .sectionone {background-color: #2e2f42 ;}
 .sectionthree {background-color: #f4f4fd;}
 .maintext {font-family: "Roboto", sans-serif; font-weight: 700; font-size: 56px; line-height: 1.07; color: #ffffff; background-color: #2e2f42; text-align: center; letter-spacing: 0.02em;}
