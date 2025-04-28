@@ -64,12 +64,13 @@ body {font-family: "Roboto", sans-serif;
         letter-spacing: 0.02em;
         text-transform: capitalize;
     }
-    .paragraf {
+.paragraf {
         font-family: "Roboto" sans-serif;
         font-weight: 400;
         line-height: 1.5;
         color: #434455;
         letter-spacing: 0.02em; }
+.ul_section_three { background-color: #FFFFFF; }
 .h_two_section_three {
                     font-family: "Roboto" sans-serif;
                     font-weight: 700;
@@ -96,6 +97,7 @@ body {font-family: "Roboto", sans-serif;
     color: var(--paragraph-color);
     line-height: 1.5;
     letter-spacing: 0.02em;}
+
 .logo-link2 .bluelight {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
