@@ -35,6 +35,9 @@ body {font-family: "Roboto", sans-serif;
        color:#2e2f42;
        letter-spacing: 0.02em; 
       }
+.menu-card {color: #2e2f42;}
+.menu-card:hover { color: #404bbf;}
+.menu-card:focus {color: #404bbf;}
 .logo-link .highlight 
     {
     font-family: "Raleway", sans-serif;
