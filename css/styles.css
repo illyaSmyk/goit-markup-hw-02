@@ -139,7 +139,7 @@ a.logo_linkblue {
     letter-spacing: 0.03em; 
     text-transform: uppercase;
     text-decoration: none;}
-.logo_kinkblue .white:hover {
+.white:hover {
             color: #404bbf;
         }
 ul {list-style: none; padding: 0; margin: 0;}
