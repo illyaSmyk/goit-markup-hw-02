@@ -142,6 +142,7 @@ a.logo_linkblue {
 .white:hover {
             color: #404bbf;
         }
+.logo_kinkblue .white:hover {color: #404bbf;}
 ul {list-style: none; padding: 0; margin: 0;}
 li {list-style: none;
     padding: 0;
