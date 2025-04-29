@@ -52,7 +52,8 @@ body {font-family: "Roboto", sans-serif;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase; 
-    color: #4d5ae5; }
+    color: #4d5ae5; 
+    text-decoration: none;}
 .logo-link .highlight:hover {
             color: #404bbf;
         }
@@ -130,7 +131,8 @@ body {font-family: "Roboto", sans-serif;
     line-height: 1.17;
     color: #4d5ae5;
     letter-spacing: 0.03em; 
-    text-transform: uppercase;}
+    text-transform: uppercase;
+    text-decoration: none;}
 ul {list-style: none; padding: 0; margin: 0;}
 li {list-style: none;
     padding: 0;
