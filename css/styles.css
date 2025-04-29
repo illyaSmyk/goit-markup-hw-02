@@ -1,6 +1,5 @@
 
 a:hover,a:focus {color:blueviolet; }
-.button:hover,.button:focus {color:blueviolet;}
 .button:hover {background-color: #404bbf; }
 .button:focus {background-color: #404bbf; }
 
