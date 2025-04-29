@@ -119,16 +119,15 @@ a.logo-link {
 a.logo_linkblue {
     text-decoration: none;
 }
-.logo_kinkblue .white {
+
+.white {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     color: #F4F4FD;
     letter-spacing: 0.03em;
-    text-transform: uppercase;
-}
-.white {color: #F4F4FD;}
+    text-transform: uppercase;#F4F4FD;}
 
 .logo_linkblue {
     font-family: "Raleway", sans-serif;
@@ -140,9 +139,7 @@ a.logo_linkblue {
     text-transform: uppercase;
     text-decoration: none;}
 .white:hover {
-            color: #404bbf;
-        }
-.logo_kinkblue .white:hover {color: #404bbf;}
+    color: #404bbf;}
 ul {list-style: none; padding: 0; margin: 0;}
 li {list-style: none;
     padding: 0;
