@@ -37,6 +37,9 @@ body {font-family: "Roboto", sans-serif;
 .menu-card {color: #2e2f42;}
 .menu-card:hover { color: #404bbf;}
 .menu-card:focus {color: #404bbf;}
+a.logo-link {
+    text-decoration: none;
+}
 .logo-link .highlight 
     {
     font-family: "Raleway", sans-serif;
