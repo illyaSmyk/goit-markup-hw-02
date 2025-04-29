@@ -53,6 +53,9 @@ body {font-family: "Roboto", sans-serif;
     letter-spacing: 0.03em;
     text-transform: uppercase; 
     color: #4d5ae5; }
+.logo-link .highlight:hover {
+            color: #404bbf;
+        }
 .sectionone {background-color: #2e2f42 ;}
 .sectionthree {background-color: #f4f4fd;}
 .maintext {font-family: "Roboto", sans-serif; font-weight: 700; font-size: 56px; line-height: 1.07; color: #ffffff; background-color: #2e2f42; text-align: center; letter-spacing: 0.02em;}
